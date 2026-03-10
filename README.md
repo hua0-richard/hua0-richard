@@ -22,5 +22,4 @@ LangChain · PostgreSQL · Docker
 
 ## Links
 [richardhua.dev](https://richardhua.dev) · 
-[LinkedIn](https://linkedin.com/in/richard-hua) · 
 hua.richard0@gmail.com
