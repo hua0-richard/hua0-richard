@@ -1,16 +1,26 @@
-## Hi there 👋
+# Richard Hua
 
-<!--
-**hua0-richard/hua0-richard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer building AI-powered products — 
+RAG systems, LLM pipelines, and the interfaces on top of them.
 
-Here are some ideas to get you started:
+Waterloo CS + UBC MDS. Based in Canada. Open to full-stack 
+and AI engineer roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+**[rag-obs](https://github.com/hua0-richard/rag-obs)** — Local-first RAG system 
+for Obsidian vaults. Heading-aware chunking, wikilink graph retrieval, 
+source citations. Python, FastAPI, pgvector.
+
+**[gpu-store](https://github.com/hua0-richard/gpu-store)** — Compute credits 
+platform with Stripe billing, Redis-backed idempotent webhooks, 
+and JWT auth. Next.js, NestJS, PostgreSQL.
+
+## Stack
+Python · TypeScript · React · Next.js · FastAPI · 
+LangChain · PostgreSQL · Docker
+
+## Links
+[richardhua.dev](https://richardhua.dev) · 
+[LinkedIn](https://linkedin.com/in/richard-hua) · 
+hua.richard0@gmail.com
