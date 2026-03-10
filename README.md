@@ -7,11 +7,11 @@ Open to new roles.
 
 ## Projects
 
-**[rag-obs](https://github.com/hua0-richard/rag-obs)** — RAG for Obsidian vaults. 
+**[Anki for Obsidian Markdown](https://github.com/hua0-richard/rag-obs)** — RAG for Obsidian vaults. 
 Heading-aware chunking, wikilink graph retrieval, source citations. 
 Python, FastAPI, pgvector.
 
-**[gpu-store](https://github.com/hua0-richard/gpu-store)** — Compute credits 
+**[Compute Credits Marketplace](https://github.com/hua0-richard/gpu-store)** — Compute credits 
 platform. Stripe billing, Redis-backed idempotent webhooks, JWT auth. 
 Next.js, NestJS, PostgreSQL.
 
