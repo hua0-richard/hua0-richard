@@ -1,25 +1,23 @@
 # Richard Hua
 
-Full-stack engineer building AI-powered products — 
-RAG systems, LLM pipelines, and the interfaces on top of them.
+CS @ Waterloo, MDS @ UBC.
+Full-stack and AI engineer. Based in Canada.
 
-Waterloo CS + UBC MDS. Based in Canada. Open to full-stack 
-and AI engineer roles.
+Open to new roles.
 
 ## Projects
 
-**[rag-obs](https://github.com/hua0-richard/rag-obs)** — Local-first RAG system 
-for Obsidian vaults. Heading-aware chunking, wikilink graph retrieval, 
-source citations. Python, FastAPI, pgvector.
+**[rag-obs](https://github.com/hua0-richard/rag-obs)** — RAG for Obsidian vaults. 
+Heading-aware chunking, wikilink graph retrieval, source citations. 
+Python, FastAPI, pgvector.
 
 **[gpu-store](https://github.com/hua0-richard/gpu-store)** — Compute credits 
-platform with Stripe billing, Redis-backed idempotent webhooks, 
-and JWT auth. Next.js, NestJS, PostgreSQL.
+platform. Stripe billing, Redis-backed idempotent webhooks, JWT auth. 
+Next.js, NestJS, PostgreSQL.
 
 ## Stack
-Python · TypeScript · React · Next.js · FastAPI · 
-LangChain · PostgreSQL · Docker
+Python · TypeScript · React · Next.js · FastAPI · LangChain · 
+NestJS · PostgreSQL · Redis · pgvector · Docker
 
 ## Links
-[richardhua.dev](https://richardhua.dev) · 
-hua.richard0@gmail.com
+[richardhua.dev](https://richardhua.dev) · hua.richard0@gmail.com
