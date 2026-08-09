@@ -7,11 +7,11 @@ Open to new roles.
 
 ## Projects
 
-**[AI Agent for Steam](https://github.com/hua0-richard/ai-agent-ecomm)** — Conversational game discoverability agent. 
+**[Perplexity for Steam](https://github.com/hua0-richard/ai-agent-ecomm)** — Conversational game discoverability agent. 
 Hybrid BM25 + pgvector, TinyCLIP image search, Whisper ASR, LangChain tool calling. 
 Python, FastAPI, React, pgvector.
 
-**[Anki for Obsidian Markdown](https://github.com/hua0-richard/rag-obs)** — RAG for Obsidian vaults. 
+**[Quizlet for Obsidian.md](https://github.com/hua0-richard/rag-obs)** — RAG for Obsidian vaults. 
 Heading-aware chunking, wikilink graph retrieval, source citations. 
 Python, FastAPI, pgvector.
 
