@@ -15,7 +15,7 @@ Python, FastAPI, React, pgvector.
 Heading-aware chunking, wikilink graph retrieval, source citations. 
 Python, FastAPI, pgvector.
 
-**[Compute Credits Marketplace](https://github.com/hua0-richard/gpu-store)** — Compute credits 
+**[Cloud Billing Layer](https://github.com/hua0-richard/gpu-store)** — Compute credits 
 platform. Stripe billing, Redis-backed idempotent webhooks, JWT auth. 
 Next.js, NestJS, PostgreSQL.
 
